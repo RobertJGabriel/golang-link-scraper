@@ -5,10 +5,9 @@
 
 # Set up
 
-1. Clone this Repo ````go get github.com/Teamwork/api-documentation-generator````dd
+1. Clone this Repo ````go get github.com/RobertJGabriel/golang-link-scraper````dd
 
-5. Then ```gulp build``` to build assets.
-6. Visit [http://localhost:8081/desk](http://localhost:8081/desk)
+2. Then ```gulp build``` .
 
 
 # Example
